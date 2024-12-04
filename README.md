@@ -27,3 +27,37 @@ A Python-based Finance Tracker to log, analyze, and visualize financial transact
    ```bash
    git clone https://github.com/your-username/finance-tracker.git
    cd finance-tracker
+2. Install the required Python packages:
+   ```bash
+   pip install pandas matplotlib
+3. (Optional) Set up a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+---
+
+## File Structure
+
+1. **main.py**
+   - The main entry point for the application.
+
+2. **finance.csv**
+   - The CSV file where all transaction data is stored.
+
+3. **data_entry.py**
+   - Utility functions to handle user input (like date, amount, category, description
+---
+
+## License
+
+-- This project is licensed under the MIT License. See LICENSE for more details.
+
+---
+
+### Customize as Needed:
+- Replace `"https://github.com/your-username/finance-tracker.git"` with the actual repository link.
+- Update the license information if applicable.
+
+
+
+
