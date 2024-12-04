@@ -48,9 +48,6 @@ A Python-based Finance Tracker to log, analyze, and visualize financial transact
    - Utility functions to handle user input (like date, amount, category, description
 ---
 
-##Contributions
- --Contributions are welcome! If you'd like to improve the application, please fork this repository, make your changes, and submit a pull request.
----
 ## License
 
 -- This project is licensed under the MIT License. See LICENSE for more details.
